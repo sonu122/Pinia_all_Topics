@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+  <h1>Something</h1>
     <h1>{{ msg }}</h1>
     <h1>{{store.counter}}</h1>
       <h1>{{store.name}}</h1>
